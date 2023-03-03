@@ -14,7 +14,6 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 
 
-
 ### Desafios da primeira semana - Aula introdutória:
 
 #### Desafio Masterclass 1 - Índice de Massa Corporal (IMC):
@@ -28,7 +27,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 > " Na matemática, a sucessão de Fibonacci (ou sequência de Fibonacci), é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores. A sequência recebeu o nome do matemático italiano Leonardo de Pisa, mais conhecido por Fibonacci, que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na antiguidade. "
 
-- <strong> Implemente a sequencia fibonacci com funcões recursivamente usando o Dart. <strong>
+- Implemente a sequencia fibonacci com funcões recursivamente usando o Dart.
 
 - Vitor Furtado Thomé - [vfthome@gmail.com](vfthome@gmail.com)
 - Project Link: [https://github.com/vfthome/Masterclass-Flutter](https://github.com/vfthome/Masterclass-Flutter)
