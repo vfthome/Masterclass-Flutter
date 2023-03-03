@@ -7,7 +7,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 ![image](https://user-images.githubusercontent.com/103903008/222615642-5684ab00-1447-4204-a178-2de1e767f38a.png)
 https://drive.google.com/file/d/1RtT-kBI0mtDT-34B7ew-Ja-qC6H39hAa/view?usp=sharing
 
-![image]([https://drive.google.com/uc?export=view&id=<FILE_ID>](https://drive.google.com/uc?export=view&id=1RtT-kBI0mtDT-34B7ew-Ja-qC6H39hAa))
+![image](https://drive.google.com/uc?export=view&id=1RtT-kBI0mtDT-34B7ew-Ja-qC6H39hAa)
 
 ## Sumário dos projetos:
 
