@@ -4,7 +4,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1r5ysUblim-ttHtcgH7jiKjzREbdBleQZ"  width="32%" height="32%">
 
-Flutter é um 
+Flutter é...
 
 ## About Me:
 
