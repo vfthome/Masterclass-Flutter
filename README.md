@@ -48,5 +48,5 @@ Valor A x Valor Y = Valor B x Valor X
 ## Informações para contato:
 
 - Vitor Furtado Thomé - [vfthome@gmail.com](vfthome@gmail.com)
-- Linked-In: [[vfthome@gmail.com](https://www.linkedin.com/in/vfthome/)]([vfthome@gmail.com](https://www.linkedin.com/in/vfthome/))
+- Linked-In: [https://www.linkedin.com/in/vfthome/](https://www.linkedin.com/in/vfthome/)
 - Project Link: [https://github.com/vfthome/Masterclass-Flutter](https://github.com/vfthome/Masterclass-Flutter)
