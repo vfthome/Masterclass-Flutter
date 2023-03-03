@@ -30,7 +30,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 > " Na matemática, a sucessão de Fibonacci (ou sequência de Fibonacci), é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores. A sequência recebeu o nome do matemático italiano Leonardo de Pisa, mais conhecido por Fibonacci, que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na antiguidade. "
 
-- Implemente a sequencia fibonacci com funcões recursivamente usando o Dart.
+- Implemente a sequencia fibonacci com funcões recursivamente usando o Dart. 🔁
 
 
 ### Desafio Masterclass 2 - Sequência de fibonacci recursiva:
@@ -44,11 +44,12 @@ Consiste quando temos 3 valores e precisamos saber o quarto. "
 Valor A está para Valor B, assim como, Valor X está para Valor Y.
 Valor A x Valor Y = Valor B x Valor X
 
-- Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio".
+- Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio". 🔁
 
 ## Licença
+<img src="https://img.shields.io/badge/License-MIT-blue.svg"  width="32%" height="32%">
 
-Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
 
 ## Informações para contato:
 
