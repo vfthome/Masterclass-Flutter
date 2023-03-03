@@ -4,9 +4,7 @@
 ![flutter dev_](https://user-images.githubusercontent.com/103903008/222612880-eaa07fe1-f074-48f9-86f1-bbee2cbfb82b.png)
 ![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
-
-<img src="https://drive.google.com/file/d/1RtT-kBI0mtDT-34B7ew-Ja-qC6H39hAa/view" width=50% height=50%>
-
+![image](https://user-images.githubusercontent.com/103903008/222615642-5684ab00-1447-4204-a178-2de1e767f38a.png)
 
 ## Sumário dos projetos:
 
