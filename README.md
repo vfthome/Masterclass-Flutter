@@ -14,10 +14,10 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 
 
-### Desafios da primeira semana - Aula introdutória:
+## Desafios da primeira semana - Aula introdutória:
 
 
-#### Desafio Masterclass 1 - Índice de Massa Corporal (IMC):
+### Desafio Masterclass 1 - Índice de Massa Corporal (IMC):
 
 > " O (IMC) índice de massa corporal é baseado na altura e peso do individuo.
 > O calculo é representado por Dividir o peso pela Altura ao quadradro² "
@@ -25,14 +25,14 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - Crie uma função que realize o calculo de IMC. ✅
 
 
-#### Desafio Masterclass 2 - Sequência de fibonacci recursiva:
+### Desafio Masterclass 2 - Sequência de fibonacci recursiva:
 
 > " Na matemática, a sucessão de Fibonacci (ou sequência de Fibonacci), é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores. A sequência recebeu o nome do matemático italiano Leonardo de Pisa, mais conhecido por Fibonacci, que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na antiguidade. "
 
 - Implemente a sequencia fibonacci com funcões recursivamente usando o Dart.
 
 
-#### Desafio Masterclass 2 - Sequência de fibonacci recursiva:
+### Desafio Masterclass 2 - Sequência de fibonacci recursiva:
 
 > " Uma das coisas mais úteis que aprendemos no ensino médio é a 'Regra de 3'.
 Consiste quando temos 3 valores e precisamos saber o quarto. "
