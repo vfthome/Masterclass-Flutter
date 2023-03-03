@@ -9,7 +9,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - [Teoria Dart](#Teoria)
 - [Desafios Masterclass](#Desafios)
 - [Licença](#Licença)
-- [Contato:](#Informações)
+- [Contato:](## Informações para contato:)
 
 
 
