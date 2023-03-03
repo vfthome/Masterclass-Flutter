@@ -11,7 +11,9 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-![VFTHOME]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://images.pexels.com/photos/15730408/pexels-photo-15730408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) "Perfil")
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+
+![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 
 ## <strong> Desafios da primeira semana - Aula introdutória:</strong>
 
