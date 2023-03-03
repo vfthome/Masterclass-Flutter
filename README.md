@@ -4,7 +4,7 @@
 ![flutter dev_](https://user-images.githubusercontent.com/103903008/222612880-eaa07fe1-f074-48f9-86f1-bbee2cbfb82b.png)
 ![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
-
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ## Sumário dos projetos:
 
 - [Desafios da primeira semana](#Desafios da primeira semana - Aula introdutória:)
