@@ -6,7 +6,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 ## Sumário dos projetos:
 
-- [Teoria Dart](#Teoria Dart)
+- [TeDart](#Teoria Dart)
 - [Desafios Masterclass](#Projetos)
 - [Contributing](#contributing)
 - [License](#license)
