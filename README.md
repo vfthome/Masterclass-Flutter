@@ -22,7 +22,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 > " O (IMC) índice de massa corporal é baseado na altura e peso do individuo.
 > O calculo é representado por Dividir o peso pela Altura ao quadradro² "
 
-* Crie uma função que realize o calculo de IMC. ✅
+- Crie uma função que realize o calculo de IMC. ✅
 
 ```Dart
 //?------------------------------------------------------READ-ME----------------------------------------------------------------------------
