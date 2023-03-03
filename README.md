@@ -6,7 +6,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 ## Sumário dos projetos:
 
-- [Desafios da primeira semana](#Desafios da primeira semana - Aula introdutória:)
+- [Desafios da primeira semana - Aula introdutória](#desafios-da-primeira-semana---aula-introdutória)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
