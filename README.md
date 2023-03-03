@@ -13,7 +13,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - [Contact](#contact)
 
 
-## <strong> Desafios da primeira semana - Aula introdutória:</strong>
+## Desafios da primeira semana - Aula introdutória:
 
 # Desafio Masterclass 1 - Índice de Massa Corporal (IMC):
 " O (IMC) índice de massa corporal é baseado na altura e peso do individuo.
