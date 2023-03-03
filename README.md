@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+<img src="https://drive.google.com/file/d/1RtT-kBI0mtDT-34B7ew-Ja-qC6H39hAa/view"  width="10%" height="10%">
+
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 # Sumário dos projetos:
