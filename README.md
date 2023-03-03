@@ -1,4 +1,4 @@
-# Desafios Masterclass Flutterando:
+# Masterclass Flutterando:
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![flutter dev_](https://user-images.githubusercontent.com/103903008/222612880-eaa07fe1-f074-48f9-86f1-bbee2cbfb82b.png)
@@ -23,7 +23,7 @@ O calculo é representado por Dividir o peso pela Altura ao quadradro² "
 
 ⋅⋅* Crie uma função que realize o calculo de IMC. ✅
 
-```
+```Dart
 //?------------------------------------------------------READ-ME----------------------------------------------------------------------------
     O IMC (Índice de Massa Corporal) é uma medida utilizada para avaliar se uma pessoa está dentro de um peso considerado saudável
     em relação à sua altura. Ele é calculado dividindo-se o peso (em quilogramas) pela altura (em metros) elevada ao quadrado.
