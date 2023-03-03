@@ -7,10 +7,9 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 ## Sumário dos projetos:
 
 - [Teoria Dart](#Teoria Dart)
-- [Desafios Masterclass](#Projetos)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Desafios Masterclass](#Projetos))
+- [Licença](#Licença)
+- [Informações para contato:](#Informações para contato:)
 
 
 
@@ -44,6 +43,10 @@ Valor A está para Valor B, assim como, Valor X está para Valor Y.
 Valor A x Valor Y = Valor B x Valor X
 
 - Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio".
+
+## Licença
+
+Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes.
 
 ## Informações para contato:
 
