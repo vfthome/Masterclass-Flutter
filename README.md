@@ -33,7 +33,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - Implemente a sequencia fibonacci com funcões recursivamente usando o Dart. 🔁
 
 
-### Desafio Masterclass 2 - Sequência de fibonacci recursiva:
+### Desafio Masterclass 2 - Regras de 3 com Dart:
 
 > " Uma das coisas mais úteis que aprendemos no ensino médio é a 'Regra de 3'.
 Consiste quando temos 3 valores e precisamos saber o quarto. "
