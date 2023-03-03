@@ -1,4 +1,4 @@
-# Masterclass Flutterando:
+# ![image](https://user-images.githubusercontent.com/103903008/222616384-c155087f-5d5c-4a9d-9cf7-9a8cb716433a.png)Masterclass Flutterando:
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![flutter dev_](https://user-images.githubusercontent.com/103903008/222612880-eaa07fe1-f074-48f9-86f1-bbee2cbfb82b.png)
