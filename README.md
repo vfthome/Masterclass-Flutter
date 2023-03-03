@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+![flutter dev_](https://user-images.githubusercontent.com/103903008/222612669-a3106b0b-53cc-4a55-90b8-323790026564.png)
+
+![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
 ## Sumário dos projetos:
@@ -13,7 +16,6 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - [Contact](#contact)
 [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 
-![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 
 ## <strong> Desafios da primeira semana - Aula introdutória:</strong>
 
