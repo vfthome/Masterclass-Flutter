@@ -1,9 +1,7 @@
 # Desafios Masterclass Flutterando:
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-![flutter dev_](https://user-images.githubusercontent.com/103903008/222612669-a3106b0b-53cc-4a55-90b8-323790026564.png)
-
+![flutter dev_](https://user-images.githubusercontent.com/103903008/222612880-eaa07fe1-f074-48f9-86f1-bbee2cbfb82b.png)
 ![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
 
