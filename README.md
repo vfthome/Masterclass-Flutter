@@ -7,7 +7,7 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 # Sumário dos projetos:
 
 - [Teoria Dart](#Teoria)
-- [Desafios Masterclass](#Desafio-Masterclass-1---Índice-de-Massa-Corporal_(IMC))
+- [Desafios Masterclass](##desafios-da-primeira-semana---aula-introdutória)
 - [Licença](#Licença)
 - [Contato](#informações-para-contato)
 
