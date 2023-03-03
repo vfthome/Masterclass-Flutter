@@ -4,7 +4,10 @@
 ![flutter dev_](https://user-images.githubusercontent.com/103903008/222612880-eaa07fe1-f074-48f9-86f1-bbee2cbfb82b.png)
 ![image](https://user-images.githubusercontent.com/103903008/222612036-04805e1a-507f-4a31-80ef-1223266b6f57.png)
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+
+
 ## Sumário dos projetos:
 
 - [Desafios da primeira semana](#Desafios da primeira semana - Aula introdutória:)
@@ -12,7 +15,6 @@ Projeto criado para a masterclass de flutter ministrada por jacob moura.
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 
 
 ## <strong> Desafios da primeira semana - Aula introdutória:</strong>
