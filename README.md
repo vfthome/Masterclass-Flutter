@@ -51,8 +51,9 @@ Valor A x Valor Y = Valor B x Valor X
 
 Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
 
-## Informações para contato:
+## About Me:
 
-- Vitor Furtado Thomé - [vfthome@gmail.com](vfthome@gmail.com)
-- Linked-In: [https://www.linkedin.com/in/vfthome/](https://www.linkedin.com/in/vfthome/)
-- Project Link: [https://github.com/vfthome/Masterclass-Flutter](https://github.com/vfthome/Masterclass-Flutter)
+- 🎓 Electronics Engineering Student at UFSC, graduating in 6 months. 
+- 📬 Vitor Furtado Thomé - [vfthome@gmail.com](vfthome@gmail.com) 
+- 👔 Linked-In: [https://www.linkedin.com/in/vfthome/](https://www.linkedin.com/in/vfthome/) 
+- 🎯 Project Link: [https://github.com/vfthome/Masterclass-Flutter](https://github.com/vfthome/Masterclass-Flutter) 
