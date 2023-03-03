@@ -45,5 +45,7 @@ Valor A x Valor Y = Valor B x Valor X
 
 - Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio".
 
+########################################################################################################
+
 - Vitor Furtado Thomé - [vfthome@gmail.com](vfthome@gmail.com)
 - Project Link: [https://github.com/vfthome/Masterclass-Flutter](https://github.com/vfthome/Masterclass-Flutter)
