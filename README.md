@@ -47,7 +47,7 @@ Valor A x Valor Y = Valor B x Valor X
 - Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio". 🔁
 
 ## Licença
-<img src="https://img.shields.io/badge/License-MIT-blue.svg"  width="5%" height="5%">
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
 
