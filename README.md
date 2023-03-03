@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png"  width="3%" height="3%">Masterclass Flutterando:
+# <img src="https://terminalroot.com.br/assets/img/dart/flutter-dart.jpg"  width="3%" height="3%"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png"  width="3%" height="3%"> Masterclass Flutterando:
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Projeto criado para a masterclass de flutter ministrada por jacob moura.
