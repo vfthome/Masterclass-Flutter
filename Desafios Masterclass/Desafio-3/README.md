@@ -1,8 +1,3 @@
-" Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução 
-da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser
-encontrado, logo, poderá ter apenas um valor necessáriamente 'vazio'. "
-    
-    
     📚 A Regra de 3 é um método simples para encontrar um valor desconhecido em uma proporção, utilizando 
     a relação entre duas grandezas conhecidas.
     ✅ Para usar a Regra de 3, basta escrever as grandezas conhecidas em forma de fração e multiplicá-las
@@ -17,4 +12,8 @@ encontrado, logo, poderá ter apenas um valor necessáriamente 'vazio'. "
 
     x = R$10
 
-    👀 Portanto, 5 maçãs custam R$10.
+    👀 Portanto, 5 maçãs custam R$10.]
+    
+" Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução 
+da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser
+encontrado, logo, poderá ter apenas um valor necessáriamente 'vazio'. "
