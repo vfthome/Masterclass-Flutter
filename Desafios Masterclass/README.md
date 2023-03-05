@@ -9,6 +9,11 @@ Os desafios lançados na primeira semana foram:
 2) Calculo do N-ésimo termo da sequência de Fibonacci, de maneira recursiva.
 3) Calculo de uma regra de 3 utilizando Dart.
 
+## Desafios da segunda semana - Nivelamento POO:
+
+Os desafios lançados na primeira semana foram:
+1) ...
+
 ## About Me:
 
 - 🎓 Electronics Engineering Student at UFSC, graduating in 6 months. 
