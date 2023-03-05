@@ -49,7 +49,7 @@ Valor A x Valor Y = Valor B x Valor X
 ## Licença
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
+Este projeto utiliza a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
 
 ## About Me:
 
