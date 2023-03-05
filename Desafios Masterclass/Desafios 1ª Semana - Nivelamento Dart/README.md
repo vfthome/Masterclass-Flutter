@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*evGHZJd_7cahb08X"  width="32%" height="32%">
+<img src="https://drive.google.com/uc?export=view&id=1ZH16CX1P6wG4GVQjQklJdVQZOq4ihemD"  width="32%" height="32%">
 
 Dart é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011, que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.
 
