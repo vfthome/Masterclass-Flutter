@@ -13,7 +13,7 @@ Os desafios lançados na primeira semana foram:
 
 ## Desafios da segunda semana - Nivelamento POO:
 
-Os desafios lançados na primeira semana foram:
+Os desafios lançados na segunda semana foram:
 1) ...
 
 ## About Me:
