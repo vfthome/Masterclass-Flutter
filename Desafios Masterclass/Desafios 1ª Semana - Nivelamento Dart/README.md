@@ -12,7 +12,7 @@ Tour da linguagem: [Dart Tour](https://dart.dev/guides/language/language-tour)
 
 Aprendendo Dart vindo do javascript: [Learning Dart as a JavaScript developer](https://dart.dev/guides/language/coming-from/js-to-dart)
 
-Dicas para uma aplicação efetiva do Dart: [Effective Dart](https://dart.dev/guides/language/effective-dart)
+Dicas para uso efetivo do Dart: [Effective Dart](https://dart.dev/guides/language/effective-dart)
 
 ## About Me:
 
