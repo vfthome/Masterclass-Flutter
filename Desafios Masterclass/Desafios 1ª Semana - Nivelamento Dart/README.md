@@ -8,8 +8,6 @@ Dart é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi
 
 <img src="https://drive.google.com/uc?export=view&id=1ZH16CX1P6wG4GVQjQklJdVQZOq4ihemD"  width="50%" height="50%">
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 "O Flutter é tanto um framework quanto um toolkit, o framework nos ajuda a produzir elementos utilizando Dart e o toolkit está relacionado a todas as builds externas que ocorrem quando criamos os binários para Android, iOS, Windows, Web, etc.."
 
 # Links Úteis:
