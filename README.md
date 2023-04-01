@@ -76,9 +76,25 @@ O Resultado deve ser igual ao segundo dígito verificador.
 
 ### Desafio Masterclass 5 - Validação de cartão de crédito (numeração):
 
-> " Na matemática, a sucessão de Fibonacci (ou sequência de Fibonacci), é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores. A sequência recebeu o nome do matemático italiano Leonardo de Pisa, mais conhecido por Fibonacci, que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na antiguidade. "
+> " O Mod 10 é um algoritmo para validação de cartões que é utilizado pela maioria das bandeiras em todo o mundo. A seguir mostro como utilizar o algoritmo para validar a numeração do cartão.
+> Para validar o cartão de crédito siga esses passos: "
 
-- Implemente a sequencia fibonacci com funcões recursivamente usando o Dart. 🔁
+1. Separe o último dígito do cartão. Neste caso é o zero.
+
+2. Multiplique a numeração do cartão, número por número sendo a coluna ímpar por 1 e a coluna par por 2, levando em conta que a primeira coluna inicia-se por 0 (zero). Se o valor da multiplicação tiver dois dígitos, separe e some cada unidade.  Em seguida, some todos os valores.
+
+3. Com o resultado anterior, faça uma divisão por 10 para obter o resto da divisão:
+
+4. Subtraia o resto da divisão por 10:
+
+5. Faça a verificação do número que foi separado no item 1 com o resultado do item 4. Se os números forem iguais, o cartão é valido, e se forem diferentes, é invalido.
+
+
+Para testes, segue dois  números de cartão:
+
+Cartão inválido: 5419 8250 0346 1210.
+Cartão válido: 4916 6418 5936 9080.
+
 
 ## Licença
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
