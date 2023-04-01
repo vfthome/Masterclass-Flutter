@@ -14,7 +14,7 @@
 
     x = R$10
 
-    👀 Portanto, 5 maçãs custam R$10.]
+    👀 Portanto, 5 maçãs custam R$10.
     
 " Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução 
 da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser

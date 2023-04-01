@@ -9,13 +9,13 @@ Projeto criado para a masterclass de flutter ministrada por Jacob Moura.
 # Sumário:
 
 - [Teoria Dart](#Teoria)
-- [Desafios Masterclass](#desafios-da-primeira-semana---aula-introdutória)
+- [Desafios Masterclass](#desafios-da-primeira-semana---nivelamento-dart)
 - [Licença](#Licença)
 - [Contato](#about-me)
 
 
 
-## Desafios da primeira semana - Aula introdutória:
+## Módulo 1 - Nivelamento Dart e POO:
 
 
 ### Desafio Masterclass 1 - Índice de Massa Corporal (IMC):
@@ -33,7 +33,7 @@ Projeto criado para a masterclass de flutter ministrada por Jacob Moura.
 - Implemente a sequencia fibonacci com funcões recursivamente usando o Dart. 🔁
 
 
-### Desafio Masterclass 2 - Regras de 3 com Dart:
+### Desafio Masterclass 3 - Regras de 3 com Dart:
 
 > " Uma das coisas mais úteis que aprendemos no ensino médio é a 'Regra de 3'.
 Consiste quando temos 3 valores e precisamos saber o quarto. "
@@ -46,10 +46,87 @@ Valor A x Valor Y = Valor B x Valor X
 
 - Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio". 🔁
 
+
+### Desafio Masterclass 4 - Validação de CPF:
+
+> " Construa uma classe que valide um CPF recebendo um valor String por construtor e  um método de validação retornando um booleano.
+> O CPF tem dois dígitos verificadores que são os dois últimos números do CPF. "
+
+- Cálculo do primeiro dígito verificar:
+
+1. O primeiro passo é calcular o primeiro dígito verificador, e para isso, separamos os primeiros 9 dígitos do CPF (111.444.777) e multiplicamos cada um dos números, da direita para a esquerda por números crescentes a partir do número 2.
+
+2. Multiplique cada digito do CPF pelo respectivo número e somamos cada um dos resultados.
+
+3. Divida o valor obtido por 11. Trabalharemos com o RESTO e não com o VALOR da divisão.
+
+4. Se o resto da divisão for menor que 2, então o dígito é igual a 0 (Zero).
+ Se o resto da divisão for maior ou igual a 2, então o dígito verificador é igual a 11 menos o resto da divisão (11 - resto).
+
+O Resultado deve ser igual ao primeiro dígito verificador.
+
+- Cálculo do segundo dígito verificar:
+
+1. Pegaremos os primeiros 10 dígitos do CPF (111.444.777-1) e multiplicamos cada um dos números, da direita para a esquerda por números crescentes a partir do número 2.
+
+2. Com o resultado em mãos, siga os passos 2, 3 e 4 do cálculo do primeiro dígito.
+
+O Resultado deve ser igual ao segundo dígito verificador.
+
+
+### Desafio Masterclass 5 - Validação de cartão de crédito (numeração):
+
+> " O Mod 10 é um algoritmo para validação de cartões que é utilizado pela maioria das bandeiras em todo o mundo. A seguir mostro como utilizar o algoritmo para validar a numeração do cartão.
+> Para validar o cartão de crédito siga esses passos: "
+
+1. Separe o último dígito do cartão. Neste caso é o zero.
+
+2. Multiplique a numeração do cartão, número por número sendo a coluna ímpar por 1 e a coluna par por 2, levando em conta que a primeira coluna inicia-se por 0 (zero). Se o valor da multiplicação tiver dois dígitos, separe e some cada unidade.  Em seguida, some todos os valores.
+
+3. Com o resultado anterior, faça uma divisão por 10 para obter o resto da divisão:
+
+4. Subtraia o resto da divisão por 10:
+
+5. Faça a verificação do número que foi separado no item 1 com o resultado do item 4. Se os números forem iguais, o cartão é valido, e se forem diferentes, é invalido.
+
+
+Para testes, segue dois  números de cartão:
+
+Cartão inválido: 5419 8250 0346 1210.
+Cartão válido: 4916 6418 5936 9080.
+
+
+### Desafio Masterclass 6 - Cifra de Vigenère:
+
+> " Cifra de Vigenère é uma criptografia simples usada para embaralhar textos. Valores que não seja letras NÃO SÃO TRANSFORMADOS. "
+
+- Crie uma classe que execute 3 regras de negócio relacionado a criptografia:
+A - Gerador de Key randômica.
+B - Encode (Retorne o texto criptografado)
+C - Decode (Retorne o texto descriptografado).
+
+Obs: Use apenas valores maiúsculos. Certifique-se disso! 
+
+A. Algorítimo para Key:
+Para executar o encode e decode é necessário ter uma chave que tenha valores randômicos mas que tenha a mesma quantidade de caracteres do texto a ser criptografado.
+
+B. Encode:
+Passo 1: Receba a o texto a ser criptografado e a chave em questão.
+Passo 2: deve-se somar o charCode de cada letra do texto e da key em suas respectivas posições e dividir por 26. O RESTO dessa divisão deve ser somado com o CharCode da letra A.
+Passo 3: O resultado da soma anterior é o novo char.
+Lembre-se: Valores não alfabetos não devem ser transformados.
+
+C. Decode:
+Passo 1: Receba a o texto criptografado e a chave.
+Passo 2: deve-se subtrair o charCode de cada letra do texto e da key em suas respectivas posições somando o resultado com 26. O resultado deve ser dividido por 26. O RESTO dessa divisão deve ser somado com o CharCode da letra A.
+Passo 3: O resultado da soma anterior é o  char descriptografado.
+
+
+
 ## Licença
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Este projeto usa a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
+Este projeto utiliza a licença do MIT. Veja [LICENSE.md](LICENSE.md) para mais detalhes. 
 
 ## About Me:
 

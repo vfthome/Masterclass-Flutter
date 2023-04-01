@@ -6,11 +6,17 @@
 
 Dart é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011, que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.
 
+<img src="https://drive.google.com/uc?export=view&id=1ZH16CX1P6wG4GVQjQklJdVQZOq4ihemD"  width="50%" height="50%">
+
+"O Flutter é tanto um framework quanto um toolkit, o framework nos ajuda a produzir elementos utilizando Dart e o toolkit está relacionado a todas as builds externas que ocorrem quando criamos os binários para Android, iOS, Windows, Web, etc.."
+
 # Links Úteis:
 
 Tour da linguagem: [Dart Tour](https://dart.dev/guides/language/language-tour)
 
 Aprendendo Dart vindo do javascript: [Learning Dart as a JavaScript developer](https://dart.dev/guides/language/coming-from/js-to-dart)
+
+Dicas para uso efetivo do Dart: [Effective Dart](https://dart.dev/guides/language/effective-dart)
 
 ## About Me:
 
