@@ -47,7 +47,7 @@ Valor A x Valor Y = Valor B x Valor X
 - Sabendo disso, crie uma função que receba 4 argumentos opcionais e que retorne a resolução da regra de 3, levando em consideração que será considerado o argumento vário como valor a ser encontrado, logo, poderá ter apenas um valor necessáriamente "vazio". 🔁
 
 
-### Desafio Masterclass 4 - Validanção de CPF:
+### Desafio Masterclass 4 - Validação de CPF:
 
 > " Construa uma classe que valide um CPF recebendo um valor String por construtor e  um método de validação retornando um booleano.
 > O CPF tem dois dígitos verificadores que são os dois últimos números do CPF. "
@@ -72,6 +72,13 @@ O Resultado deve ser igual ao primeiro dígito verificador.
 2. Com o resultado em mãos, siga os passos 2, 3 e 4 do cálculo do primeiro dígito.
 
 O Resultado deve ser igual ao segundo dígito verificador.
+
+
+### Desafio Masterclass 5 - Validação de cartão de crédito (numeração):
+
+> " Na matemática, a sucessão de Fibonacci (ou sequência de Fibonacci), é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores. A sequência recebeu o nome do matemático italiano Leonardo de Pisa, mais conhecido por Fibonacci, que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na antiguidade. "
+
+- Implemente a sequencia fibonacci com funcões recursivamente usando o Dart. 🔁
 
 ## Licença
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
