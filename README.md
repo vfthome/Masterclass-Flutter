@@ -15,7 +15,7 @@ Projeto criado para a masterclass de flutter ministrada por Jacob Moura.
 
 
 
-## Desafios da primeira semana - Nivelamento Dart:
+## Módulo 1 - Nivelamento Dart e POO:
 
 
 ### Desafio Masterclass 1 - Índice de Massa Corporal (IMC):
