@@ -50,7 +50,6 @@ Valor A x Valor Y = Valor B x Valor X
 ### Desafio Masterclass 4 - Validanção de CPF:
 
 > " Construa uma classe que valide um CPF recebendo um valor String por construtor e  um método de validação retornando um booleano.
-
 > O CPF tem dois dígitos verificadores que são os dois últimos números do CPF. "
 
 - Cálculo do primeiro dígito verificar:
