@@ -11,10 +11,12 @@ Os desafios lançados na primeira semana foram:
 2) Calculo do N-ésimo termo da sequência de Fibonacci, de maneira recursiva.
 3) Calculo de uma regra de 3 utilizando Dart.
 
-## Desafios da segunda semana - Nivelamento POO:
+## Desafios da primeira semana - Nivelamento Dart:
 
-Os desafios lançados na segunda semana foram:
-1) ...
+Os desafios lançados na primeira semana foram:
+1) Calculo do IMC (Índice de Massa Corporal).
+2) Calculo do N-ésimo termo da sequência de Fibonacci, de maneira recursiva.
+3) Calculo de uma regra de 3 utilizando Dart.
 
 ## About Me:
 
