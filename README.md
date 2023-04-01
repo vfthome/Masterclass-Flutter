@@ -96,7 +96,7 @@ Cartão inválido: 5419 8250 0346 1210.
 Cartão válido: 4916 6418 5936 9080.
 
 
-### Desafio Masterclass 2 - Sequência de Fibonacci recursiva:
+### Desafio Masterclass 6 - Cifra de Vigenère:
 
 > " Cifra de Vigenère é uma criptografia simples usada para embaralhar textos. Valores que não seja letras NÃO SÃO TRANSFORMADOS. "
 
