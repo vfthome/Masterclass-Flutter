@@ -29,5 +29,5 @@ int fibonacci(int n){
 }
 
 void main() {
-  print('${fibonacci(3)}');
+  print(fibonacci(3));
 }
