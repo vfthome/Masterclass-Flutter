@@ -25,34 +25,49 @@
 
 
 // Função que faz a regra de 3 para os números fornecidos e retorna um double com o resultado:
-double? calculoIMC ([dynamic A, dynamic B, dynamic X, dynamic Y]){
+double? regraDe3 ({double? A, double? B, double? X, double? Y}){
   // Variáveis auxiliares:
-  var counter = 0;
   double? retorno;
+
+  // Confere quantos argumentos são nulos:
+  var counter = 0;
+  var variableList = [A, B, X, Y];
+  for (var element in variableList) {
+    if(element == null){
+      counter++;
+    }
+  }
+
+  print('Resultado da regra de 3:');
+
   // Checando qual dos argumentos não foi passado a função com um valor:
-  if(A == null){
-    retorno = double.parse(X*B/Y);
-    counter++;
-  }
-  else if (B == null){
-    retorno = double.parse(Y*A/X);
-    counter++;
-  }
-  else if (X == null){
-    retorno = double.parse(Y*A/B);
-    counter++;
-  }
-  else if (Y == null){
-    retorno = double.parse(X*B/A);
-    counter++;
-  }
-  // Caso esteja tudo certo! Fornece o resultado da regra de 3 truncado até 6 casas decimais:
   if(counter == 1){
-    return double.parse((retorno)!.toStringAsFixed(6));
+    if(A == null){
+      retorno = X!*B!/Y!;
+    }
+    else if (B == null){
+      retorno = Y!*A/X!;
+    }
+    else if (X == null){
+      retorno = Y!*A/B;
+    }
+    else if (Y == null){
+      retorno = X*B/A;
+    }
+    // Caso esteja tudo certo! Fornece o resultado da regra de 3 truncado até 3 casas decimais:
+    if(counter == 1){
+      return double.parse((retorno)!.toStringAsFixed(3));
+    }
   }
+
   // Caso o usuário não forneça 3 parâmetros, retorna null de propósito e printa uma justificativa:
   else{
     print('Não foram fornecidos apenas 3 elementos!');
     return null;
   }
+
+}
+
+void main() {
+  print(regraDe3(Y: 11, B: 51, X: 7));
 }

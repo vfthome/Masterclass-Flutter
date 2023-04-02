@@ -8,7 +8,7 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "${workspaceFolder}/Desafios Masterclass/Desafios Módulo 0 - Nivelamento Dart e POO/Desafio-2/Desafio-2.dart"
+            "program": "${workspaceFolder}/Desafios Masterclass/Desafios Módulo 0 - Nivelamento Dart e POO/Desafio-3/Desafio-3.dart"
         }
     ]
 }
