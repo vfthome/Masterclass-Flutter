@@ -4,19 +4,18 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1r5ysUblim-ttHtcgH7jiKjzREbdBleQZ"  width="32%" height="32%">
 
-## Desafios da primeira semana - Nivelamento Dart:
+## Desafios do módulo zero - Nivelamento Dart:
 
-Os desafios lançados na primeira semana foram:
+Os desafios lançados neste módulo foram:
 1) Calculo do IMC (Índice de Massa Corporal).
 2) Calculo do N-ésimo termo da sequência de Fibonacci, de maneira recursiva.
 3) Calculo de uma regra de 3 utilizando Dart.
 
-## Desafios da primeira semana - Nivelamento Dart:
+## Desafios do módulo um - Componentes do Flutter:
 
-Os desafios lançados na primeira semana foram:
-1) Calculo do IMC (Índice de Massa Corporal).
-2) Calculo do N-ésimo termo da sequência de Fibonacci, de maneira recursiva.
-3) Calculo de uma regra de 3 utilizando Dart.
+Os desafios lançados neste módulo foram:
+1) Validação de cartão de crédito (numeração).
+2) Cifra de Vigenère.
 
 ## About Me:
 
