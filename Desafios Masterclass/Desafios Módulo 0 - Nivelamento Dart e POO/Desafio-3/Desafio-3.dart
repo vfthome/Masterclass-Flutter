@@ -61,10 +61,8 @@ double? regraDe3 ({double? A, double? B, double? X, double? Y}){
   }
 
   // Caso o usuário não forneça 3 parâmetros, retorna null de propósito e printa uma justificativa:
-  else{
-    print('Não foram fornecidos apenas 3 elementos!');
-    return null;
-  }
+  print('Não foram fornecidos apenas 3 elementos!');
+  return null;
 
 }
 
