@@ -10,6 +10,7 @@ Os desafios lançados neste módulo foram:
 1) Calculo do IMC (Índice de Massa Corporal).
 2) Calculo do N-ésimo termo da sequência de Fibonacci, de maneira recursiva.
 3) Calculo de uma regra de 3 utilizando Dart.
+4) Validação de CPF.
 
 ## Desafios do módulo um - Componentes do Flutter:
 
